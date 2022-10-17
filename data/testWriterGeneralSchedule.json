@@ -1,0 +1,20 @@
+{
+    "date": "Sept 1",
+    "schedule": [
+        {
+            "restTime": 0,
+            "reps": 2,
+            "notes": "notes",
+            "sets": 1,
+            "name": "an exercise"
+        },
+        {
+            "restTime": 6,
+            "reps": 5,
+            "notes": "more notes",
+            "sets": 4,
+            "name": "another exercise"
+        }
+    ],
+    "name": "My schedule"
+}
